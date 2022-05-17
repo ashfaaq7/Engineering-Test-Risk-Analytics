@@ -1,5 +1,5 @@
 '''
-This program will read Server IP from each environment csv files
+This program will read Server IPs from each environment csv files under the "Engineering Test Files" folder
 and combine all the Server IP and Environment in a single 'Combined.csv' file
 '''
 
